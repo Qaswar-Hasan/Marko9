@@ -1,0 +1,6 @@
+{
+  "name": "Plastic Mouthpiece Factory",
+  "description": "Production, inventory, shift tracking & client packaging management system for plastic mouthpiece factory",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
